@@ -23,7 +23,7 @@ th, td {
 }
 
 div {
-  background-color: blue;
+  background-color: darkcyan;
   text-align: right;
 }
 
